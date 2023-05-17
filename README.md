@@ -14,7 +14,7 @@ Questions have a title, description, and are posted under a specific topic or ca
 ### Posting Answers
 Logged-in users can post answers to existing questions or threads.
 
-![Feed](\assets\Feed.png)
+![Feed](/assets/Feed.png)
 
 ### Deleting Content
 Logged-in users can delete questions or answers they posted
@@ -22,7 +22,7 @@ Users can also delete their own account which will delete all their questions.
 
 ### Listing System Users
 Users can view all users on the system with their IDs and usernames
-![Listing System Users](\assets\Users.png)
+![Listing System Users](/assets/Users.png)
 
 ### Object Oriented Design
 This project utilizes an object-oriented design with the following classes:
